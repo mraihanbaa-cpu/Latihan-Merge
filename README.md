@@ -1,2 +1,1 @@
-# Latihan-Merge
-melakukan latihan cara merge dan branch ing
+Branch nya dapat dibuat 
